@@ -1,4 +1,5 @@
 class Stack:
+	"""docstring for ClassName"""
     def __init__(self):
         self.items = []
 
