@@ -1,3 +1,3 @@
 # Python Implementations
 
-*Stack Implementation
+*	Stack Implementation
