@@ -1,2 +1,3 @@
-# python-stack
-Python Stack Implementation
+# Python Implementations
+
+*Stack Implementation
